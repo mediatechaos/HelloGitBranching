@@ -1,1 +1,3 @@
-# HelloGitBranching
+# Hello Git Branching
+
+* *Benjamin Haos*
